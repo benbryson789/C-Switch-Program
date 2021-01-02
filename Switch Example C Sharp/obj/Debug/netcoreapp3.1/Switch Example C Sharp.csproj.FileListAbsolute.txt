@@ -1,0 +1,13 @@
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\bin\Debug\netcoreapp3.1\Switch Example C Sharp.exe
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\bin\Debug\netcoreapp3.1\Switch Example C Sharp.deps.json
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\bin\Debug\netcoreapp3.1\Switch Example C Sharp.runtimeconfig.json
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\bin\Debug\netcoreapp3.1\Switch Example C Sharp.runtimeconfig.dev.json
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\bin\Debug\netcoreapp3.1\Switch Example C Sharp.dll
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\bin\Debug\netcoreapp3.1\Switch Example C Sharp.pdb
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\obj\Debug\netcoreapp3.1\Switch Example C Sharp.AssemblyInfoInputs.cache
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\obj\Debug\netcoreapp3.1\Switch Example C Sharp.AssemblyInfo.cs
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\obj\Debug\netcoreapp3.1\Switch Example C Sharp.csproj.CoreCompileInputs.cache
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\obj\Debug\netcoreapp3.1\Switch Example C Sharp.dll
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\obj\Debug\netcoreapp3.1\Switch Example C Sharp.pdb
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\obj\Debug\netcoreapp3.1\Switch Example C Sharp.genruntimeconfig.cache
+C:\Users\debra_2qm34gh\source\repos\Switch Example C Sharp\Switch Example C Sharp\obj\Debug\netcoreapp3.1\Switch Example C Sharp.csprojAssemblyReference.cache
